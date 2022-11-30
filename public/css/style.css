@@ -39,18 +39,45 @@ input:focus{
 
 
 /* début exo 04 les transitions */
-
+.transition_04{
+    height: 150px;
+    width: 150px;
+    background-color: yellow;
+    transition: 4s;
+}
+.transition_04:hover{
+    background-color: red;
+}
 /* fin exo 04 les transitions */
 
 
 
 /* début exo 05 les transitions */
+.transition_05{
+    height: 150px;
+    width: 150px;
+    background-color: orange;
+    transition: 2s;
+}
+.transition_05:hover{
+    background-color: purple;
+    border-radius: 50%;
 
+}
 /* fin exo 05 les transitions */
 
 
 
 /* début exo 06 les transitions */
+.transition_06{
+    background-color: grey;
+    height: 150px;
+    width: 150px;
+    transition: 3s;
+}
+.transition_06:active{
+    margin: 300px;
+}
 
 /* fin exo 06 les transitions */
 
