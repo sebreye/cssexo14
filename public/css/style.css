@@ -140,6 +140,33 @@ input:focus{
 
 
 /* début exo 10 les transitions */
+.transition_10{
+    background-color: yellow;
+    height: 150px;
+    width: 150px;
+    transition: 3s;
+    transition-timing-function: ease;
+}
+.transition_10_intrus{
+    background-color: lightblue;
+    height: 20%;
+    width: 20%;
+    border-radius: 50%;
+    transition: 3s;
+    transition-timing-function: ease;
+}
+.transition_10:active{
+    margin-left: 80%;
+    border-radius: 50%;
+    background-color: orange;
+}
+.transition_10_intrus:active{
+    border-radius: 0%;
+    height: 20%;
+    width: 20%;
+    margin-left: 100%;
+    background-color: blue;
 
+}
 /* fin exo 10 les transitions */
 
