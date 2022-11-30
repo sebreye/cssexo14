@@ -1,0 +1,80 @@
+
+/* début exo 01 les_hover_01 */
+.bg-color{
+    height: 150px;
+    width: 150px;
+    background-color: lightblue;
+}
+.bg-color:hover{
+background-color: purple;
+}
+/* fin exo 01 les_hover_01 */
+
+
+/* début exo 02 les_hover_02 */
+.height_and_width{
+    background-color: lightblue;
+    height: 150px;
+    width: 150px;
+}
+.height_and_width:hover{
+    height: 200px;
+    width: 500px;
+}
+
+/* fin exo 02 les_hover_02 */
+
+
+
+/* début exo 03 les_focus_03 */
+input:focus{
+    border-radius: 10px;
+}
+input:focus{
+    border-color: blue;
+}
+
+/* fin exo 03 les_focus_03 */
+
+
+
+/* début exo 04 les transitions */
+
+/* fin exo 04 les transitions */
+
+
+
+/* début exo 05 les transitions */
+
+/* fin exo 05 les transitions */
+
+
+
+/* début exo 06 les transitions */
+
+/* fin exo 06 les transitions */
+
+
+
+/* début exo 07 les transitions */
+
+/* fin exo 07 les transitions */
+
+
+
+/* début exo 08 les transitions */
+
+/* fin exo 08 les transitions */
+
+
+
+/* début exo 09 les transitions */
+
+/* fin exo 09 les transitions */
+
+
+
+/* début exo 10 les transitions */
+
+/* fin exo 10 les transitions */
+
